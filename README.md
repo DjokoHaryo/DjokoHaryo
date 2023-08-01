@@ -4,6 +4,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./hello.gif">
  <source media="(prefers-color-scheme: light)" srcset="./hello.gif">
- <img alt="hello .gif" src="./hello1.gif">
+ <img alt="hello .gif" src="./hello.gif">
 </picture>
 
