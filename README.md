@@ -2,7 +2,5 @@
 <h3 align="center">A newbie programming from Indonesia</h3>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./c0d3b9080d788636a4122f1665f46a52.gif">
- <source media="(prefers-color-scheme: light)" srcset="./c0d3b9080d788636a4122f1665f46a52.gif">
- <img alt="hello .gif" src="./c0d3b9080d788636a4122f1665f46a52.gif">
+ <iframe src="https://giphy.com/embed/0218ft4yXkI5O0pNn6" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BlueStacksInc-anime-cute-blush-0218ft4yXkI5O0pNn6">via GIPHY</a></p>
 </picture>
