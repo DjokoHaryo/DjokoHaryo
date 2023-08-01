@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Djoko Haryo🚀🚀🚀🚀</h1>
+<h1 align="center">Hi, I'm Djoko Haryo🚀</h1>
 <h3>A newbie programming from Indonesia</h3>
 
 <picture align="center">
