@@ -7,3 +7,5 @@
  <img alt="hello .gif" src="./hello.gif">
 </picture>
 
+- 👨‍🎓 high school student at SMAN 10 Bekasi.
+- 💡 An enthusiastic and dreamer programmer
