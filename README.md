@@ -8,3 +8,4 @@
 
 - 👨‍🎓 high school student at SMAN 10 Bekasi.
 - 💡 An enthusiastic and dreamer programmer
+- 🛠️ working on XI-8 Website repository
