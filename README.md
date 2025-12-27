@@ -6,6 +6,7 @@
  <img alt="hello .gif" src="./hello.gif">
 </picture>
 
-- 👨‍🎓 high school student at SMAN 10 Bekasi.
+- 👨‍🎓 A student at the Republic of Indonesia Defense University
 - 💡 An enthusiastic and dreamer programmer
 - 🛠️ working on XI-8 Website and portfolio repository
+- 📖 Currently Studying about Cyber Security
