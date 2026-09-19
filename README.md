@@ -6,7 +6,7 @@
  <img alt="hello .gif" src="./hello.gif">
 </picture>
 
-- 👨‍🎓 A student at the Republic of Indonesia Defense University
+- 👨‍🎓 A Informatics student at the Republic of Indonesia Defense University
 - 💡 An enthusiastic and dreamer programmer
 - 🛠️ working on XI-8 Website and portfolio repository
 - 📖 Currently Studying about Cyber Security
