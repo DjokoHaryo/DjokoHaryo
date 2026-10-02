@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Djoko Haryo🚀</h1>
+<h1 align="center">Hi, I'm Djoko Haryo Baskoro🚀</h1>
 
 <picture align="center">
  <source media="(prefers-color-scheme: dark)" srcset="./hello1.gif">
